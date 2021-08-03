@@ -1,8 +1,8 @@
 {
-  "name": "react-hw-3-image-finder",
+  "name": "react-hw-3-image-hooks-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mohara88s.github.io/react-hw-3-image-finder",
+  "homepage": "https://Mohara88s.github.io/react-hw-3-image-hooks-finder",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
